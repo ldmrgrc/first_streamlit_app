@@ -1,0 +1,2 @@
+# quirements.txt
+snowflake-connector-python
